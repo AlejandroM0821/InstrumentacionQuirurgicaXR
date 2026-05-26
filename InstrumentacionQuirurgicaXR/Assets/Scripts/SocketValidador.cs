@@ -62,6 +62,10 @@ public class SocketValidador : MonoBehaviour
 
     private void OnHerramientaRetirada(SelectExitEventArgs args)
     {
+        FeedbackController feedback = FindObjectOfType<FeedbackController>();
+        if (feedback != null)
+            feedback.RestaurarSocket(idSocket);
+            
         Posicionamiento_Controlador.Instance.EliminarPosicion(idSocket);
         posicionEstimada = Vector3.zero;
     }

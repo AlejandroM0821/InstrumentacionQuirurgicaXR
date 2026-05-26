@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Inicio.unity
+    guid: f6f0f9977ebd0854bb9b0009c5d9d7b8
+  - enabled: 1
+    path: Assets/Scenes/CirugiaFacil.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1ca6d0f0faf774f4ea7b24c32d142b62, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 61b549b851c51c54d92b1d728f045867, type: 2}

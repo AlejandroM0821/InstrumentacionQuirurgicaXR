@@ -20,4 +20,5 @@ public class PassThrough : MonoBehaviour
         runtimeFeature.SetPassthroughEnabled(IsPassthroughOn);
     }
 
+    
 }
