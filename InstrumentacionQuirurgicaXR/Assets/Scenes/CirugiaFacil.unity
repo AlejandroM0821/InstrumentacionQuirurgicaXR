@@ -478,8 +478,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1102712161}
   - {fileID: 96492922}
+  - {fileID: 1102712161}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &690446419
@@ -959,7 +959,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2005174379}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -1026,6 +1026,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 613156448}
     m_Modifications:
+    - target: {fileID: 1208439944418287828, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_Size.x
+      value: 1.0076034
+      objectReference: {fileID: 0}
+    - target: {fileID: 1208439944418287828, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_Size.y
+      value: 0.99192494
+      objectReference: {fileID: 0}
+    - target: {fileID: 1208439944418287828, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_Size.z
+      value: 0.46203947
+      objectReference: {fileID: 0}
+    - target: {fileID: 1208439944418287828, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_Center.x
+      value: -0.014852465
+      objectReference: {fileID: 0}
+    - target: {fileID: 1208439944418287828, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_Center.y
+      value: -0.003248908
+      objectReference: {fileID: 0}
+    - target: {fileID: 1208439944418287828, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_Center.z
+      value: -0.26898268
+      objectReference: {fileID: 0}
     - target: {fileID: 2459657903563700823, guid: 2763ef3637b34c640916336616383e35, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -1034,6 +1058,14 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 690446421}
+    - target: {fileID: 3173955449967877227, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00012
+      objectReference: {fileID: 0}
+    - target: {fileID: 3173955449967877227, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.000104
+      objectReference: {fileID: 0}
     - target: {fileID: 3632532467341754680, guid: 2763ef3637b34c640916336616383e35, type: 3}
       propertyPath: m_LocalScale.y
       value: 166.40529
@@ -1089,6 +1121,30 @@ PrefabInstance:
     - target: {fileID: 4117004350802025346, guid: 2763ef3637b34c640916336616383e35, type: 3}
       propertyPath: m_Name
       value: Mesa Angular
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104530797898856971, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0006759129
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104530797898856971, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.00067487534
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104530797898856971, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.00035422418
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104530797898856971, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0043792
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104530797898856971, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.000406
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104530797898856971, guid: 2763ef3637b34c640916336616383e35, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.003537
       objectReference: {fileID: 0}
     - target: {fileID: 7945249713128712932, guid: 2763ef3637b34c640916336616383e35, type: 3}
       propertyPath: m_InteractionManager
