@@ -796,6 +796,7 @@ GameObject:
   - component: {fileID: 748963238}
   - component: {fileID: 748963242}
   - component: {fileID: 748963243}
+  - component: {fileID: 748963244}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -925,6 +926,26 @@ MonoBehaviour:
   txtProcedimientoSeleccionado: {fileID: 2036086535}
   colorActivo: {r: 0, g: 1, b: 0, a: 1}
   colorInactivo: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &748963244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 748963237}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 420032a40eb474a6783db258e1669f9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FollowGaze: 1
+  LockYPosition: 1
+  TargetDistance: 1
+  MovementSmoothness: 0.2
+  VerticalBias: 0.8
+  HorizontalBias: 0.5
+  mainMenuToggle: {fileID: 0}
+  infoMenuToggle: {fileID: 0}
 --- !u!1 &839864666
 GameObject:
   m_ObjectHideFlags: 0
@@ -1661,6 +1682,18 @@ PrefabInstance:
     - target: {fileID: 2106890472965524421, guid: e04408c2abab5424da414fd14fd63a6d, type: 3}
       propertyPath: m_Name
       value: XR Origin (XR Rig)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983177514444933315, guid: e04408c2abab5424da414fd14fd63a6d, type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983177514444933315, guid: e04408c2abab5424da414fd14fd63a6d, type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983177514444933315, guid: e04408c2abab5424da414fd14fd63a6d, type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5593141477548764857, guid: e04408c2abab5424da414fd14fd63a6d, type: 3}
       propertyPath: m_LocalPosition.x

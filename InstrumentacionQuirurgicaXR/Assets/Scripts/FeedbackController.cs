@@ -68,7 +68,7 @@ public class FeedbackController : MonoBehaviour
     }
 
     //Mostrar reporte final en modo evaluacion
-
+    
     private void MostrarReporteFinal (ReporteSimulador reporte)
     {
         //conectar mas adelante con UI
