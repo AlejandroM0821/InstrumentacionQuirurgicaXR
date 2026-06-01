@@ -13,12 +13,13 @@ public class MenuController : MonoBehaviour
     public Button BotonPractica;
     public Button BotonEvaluacion;
     public Button BotonInicio;
+    public Button Atras;
 
     [Header("Texto Confirmación")]
     public TextMeshProUGUI txtProcedimientoSeleccionado;
 
     // resaltado visual de activo
-    public Color colorActivo = Color.green;
+    public Color colorActivo = Color.blue;
     public Color colorInactivo = Color.white;
 
     private void Start()
@@ -72,5 +73,10 @@ public class MenuController : MonoBehaviour
                 Debug.LogWarning($"Escena no encontrada para: {procedimiento}");
                 return "";
         }
+    }
+
+    public void botonAtras()
+    {
+        panelModo.SetActive(false);
     }
 }
