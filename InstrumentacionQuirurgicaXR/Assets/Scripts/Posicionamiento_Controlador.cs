@@ -142,6 +142,7 @@ public class Posicionamiento_Controlador : MonoBehaviour
     }
 
     // Boton Verificar Mesa / Solo debe funcionar en modo evaluacion
+    [ContextMenu("Verificar Mesa")]
     public void VerificarMesa()
     {
         if(modoActual != ModoSimulador.Evaluacion)
