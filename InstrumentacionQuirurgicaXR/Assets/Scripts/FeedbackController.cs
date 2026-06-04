@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
+using TMPro;
 using UnityEngine;
 
 public class FeedbackController : MonoBehaviour
@@ -14,6 +15,12 @@ public class FeedbackController : MonoBehaviour
     public AudioSource AudioSource;
     public AudioClip sonidoCorrecto;
     public AudioClip sonidoIncorrecto;
+
+    public TextMeshProUGUI porcentaje;
+    public TextMeshProUGUI correctas;
+    public TextMeshProUGUI incorrectas;
+    public TextMeshProUGUI ListaIncorrectas;
+
 
     //para guardar el color original de cada herramienta para restaurarlo
     private Dictionary<int, Renderer> socketRenderers = new Dictionary<int, Renderer>();
@@ -74,13 +81,17 @@ public class FeedbackController : MonoBehaviour
         //conectar mas adelante con UI
         Debug.Log($"=== reporte final===");
         Debug.Log($"Puntuacion : {reporte.puntuacion:0.0}%");
+        porcentaje.text = reporte.puntuacion.ToString() + "%"; 
         Debug.Log($"Correctas : {reporte.correctas}/{reporte.total}");
+        correctas.text = reporte.correctas.ToString() + " : " + reporte.total.ToString();
         Debug.Log($"Incorrectas : {reporte.incorrectas}/{reporte.total}");
+        incorrectas.text = reporte.incorrectas.ToString() + " : " + reporte.total.ToString();
 
         if  (reporte.herramientasIncorrectas.Count > 0)
         {
             string lista = string.Join(", ", reporte.herramientasIncorrectas);
             Debug.Log($"Herramientas incorrectas: {lista}");
+            ListaIncorrectas.text = lista;
         }
         else
         {

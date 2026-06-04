@@ -45,6 +45,8 @@ public class Posicionamiento_Controlador : MonoBehaviour
 
     private List<SocketValidador> socketsMesa = new List<SocketValidador>();
 
+    public GameObject PanelFinal;
+
     private void Awake()
     {
         if (Instance == null) Instance = this;
@@ -158,6 +160,8 @@ public class Posicionamiento_Controlador : MonoBehaviour
                   $"Correctas: {reporte.correctas}/{reporte.total}\n" +
                   $"Incorrectas: {reporte.incorrectas}/{reporte.total}\n" +
                   $"Puntuacion: {reporte.puntuacion:0.0}%");
+
+        PanelFinal.SetActive( true );
     }
 
     //Verificacion silenciosa
