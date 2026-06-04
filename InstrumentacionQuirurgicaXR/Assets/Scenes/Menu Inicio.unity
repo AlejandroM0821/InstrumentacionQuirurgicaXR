@@ -787,12 +787,16 @@ PrefabInstance:
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 4867890511870782546, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
+      propertyPath: LockYPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4867890511870782546, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
       propertyPath: HorizontalBias
-      value: 2
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 4867890511870782546, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
       propertyPath: TargetDistance
-      value: 25
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4867890511870782546, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
       propertyPath: MovementSmoothness
