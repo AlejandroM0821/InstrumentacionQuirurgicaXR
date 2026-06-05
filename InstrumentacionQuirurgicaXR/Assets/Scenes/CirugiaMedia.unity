@@ -877,6 +877,63 @@ MonoBehaviour:
   correctas: {fileID: 0}
   incorrectas: {fileID: 0}
   ListaIncorrectas: {fileID: 0}
+--- !u!1001 &491321497
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.7970295
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8192313731337228722, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8861713265816324872, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
+      propertyPath: m_Name
+      value: ClipBoard
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aa6a6e28115bfe542a719ed8e2e4534c, type: 3}
 --- !u!4 &575277661 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2929389594851818255, guid: 08e03cf11f70be14c996d7936ef6dd7b, type: 3}
@@ -3143,8 +3200,38 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 65b0e683d7c3fbe4ab4932e747d6a3c3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 916319087}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 65b0e683d7c3fbe4ab4932e747d6a3c3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2076420338}
   m_SourcePrefab: {fileID: 100100000, guid: 65b0e683d7c3fbe4ab4932e747d6a3c3, type: 3}
+--- !u!1 &2076420337 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 65b0e683d7c3fbe4ab4932e747d6a3c3, type: 3}
+  m_PrefabInstance: {fileID: 2076420336}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &2076420338
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076420337}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3276962521971499989, guid: 65b0e683d7c3fbe4ab4932e747d6a3c3, type: 3}
 --- !u!4 &2102728685 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5934684003302566312, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
@@ -3617,3 +3704,4 @@ SceneRoots:
   - {fileID: 1603472208}
   - {fileID: 613156448}
   - {fileID: 1154645398716257077}
+  - {fileID: 491321497}
