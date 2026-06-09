@@ -760,7 +760,23 @@ PrefabInstance:
       objectReference: {fileID: 1958794562}
     - target: {fileID: 3118674422534592125, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575818489383817348, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575818489383817348, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
+      propertyPath: m_Colors.m_NormalColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575818489383817348, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
+      propertyPath: m_Colors.m_NormalColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575818489383817348, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
+      propertyPath: m_Colors.m_NormalColor.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4575818489383817348, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -817,6 +833,10 @@ PrefabInstance:
     - target: {fileID: 4867890511870782546, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
       propertyPath: MovementSmoothness
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4928968239028226329, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8613541034805698340, guid: 924847199ac8b834faa87c927e3059e0, type: 3}
       propertyPath: m_Name
