@@ -826,8 +826,8 @@ MonoBehaviour:
   materialIncorrecto: {fileID: 2100000, guid: f5c1f1d08d604a94cab6ec22f15a23a5, type: 2}
   materialNeutro: {fileID: 2100000, guid: 68a7ea472f33c584d8b1810832b150ca, type: 2}
   AudioSource: {fileID: 49814316}
-  sonidoCorrecto: {fileID: 0}
-  sonidoIncorrecto: {fileID: 0}
+  sonidoCorrecto: {fileID: 8300000, guid: 2efa263efd969374888081adc1194ed6, type: 3}
+  sonidoIncorrecto: {fileID: 8300000, guid: 372761044a7925d40922de15e298ce11, type: 3}
   porcentaje: {fileID: 856292599}
   correctas: {fileID: 1040634357}
   incorrectas: {fileID: 348553268}
