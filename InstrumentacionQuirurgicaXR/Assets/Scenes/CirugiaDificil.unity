@@ -594,6 +594,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: PinzaBabcock
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_PinzaBabcock
@@ -687,6 +743,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: TijeraKellyRecta
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -789,6 +901,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: SeparadorDeaver
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -942,7 +1110,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5006828229383143781, guid: 6eae168bbc5be8a43a06dab649452ef5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.104
+      value: 0.964
       objectReference: {fileID: 0}
     - target: {fileID: 5006828229383143781, guid: 6eae168bbc5be8a43a06dab649452ef5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1074,6 +1242,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: Allis
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -1361,6 +1585,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: TijeraMetz
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -1908,6 +2188,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: PinzaKellyAdson
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -2954,6 +3290,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: MangoBisturi3
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_MangoBisturi3
@@ -3048,6 +3440,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: PinzaGrande
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_PinzaGrande
@@ -3141,6 +3589,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: PinzaFoerster
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -3443,6 +3947,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: SeparadorFarabeuf2
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_SeparadorFarabeuf2
@@ -3548,6 +4108,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: Mosquito
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -3860,6 +4476,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: MangoBisturi4
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_MangoBisturi4
@@ -4113,6 +4785,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: PinzaCistico
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_PinzaCistico
@@ -4206,6 +4934,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: PinzaPeq
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -4460,6 +5244,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: TijeraMayo
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_TijeraMayo
@@ -4565,6 +5405,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: PortaAgujas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -4786,7 +5682,7 @@ Transform:
   m_GameObject: {fileID: 1603472207}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12.256589, y: 1.7804608, z: 10.958595}
+  m_LocalPosition: {x: 12.256589, y: 1.7, z: 10.958595}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4850,6 +5746,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: SeparadorRichardson
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
@@ -4990,6 +5942,62 @@ PrefabInstance:
       propertyPath: herramientaEsperada
       value: SeparadorFarabeuf1
       objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
       value: Socket_SeparadorFarabeuf1
@@ -5095,6 +6103,62 @@ PrefabInstance:
     - target: {fileID: 612110048464700240, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: herramientaEsperada
       value: PinzaRochester
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2990741483061102528}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AbrirCerrarMano
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HandController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3216026873210041443, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
+      propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3386829668990930512, guid: 994c1d2fc102fc04e9369c8034268671, type: 3}
       propertyPath: m_Name
